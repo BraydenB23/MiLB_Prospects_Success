@@ -2,7 +2,7 @@
 
 Predicting whether a Minor League prospect will sustain a Major League career, using MiLB performance stats and FanGraphs scouting grades.
 
-![Hitters Model Comparison](mlb_project_demo_images/hitters_model_comparison.png)
+![Hitters Model Comparison](MiLB_Prospects_Success/hitters_model_comparison.png)
 
 ![Hitters ROC Curves](mlb_project_demo_images/hitters_roc_curves.png)
 
